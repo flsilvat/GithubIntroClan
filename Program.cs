@@ -12,7 +12,7 @@ namespace CollaborativeProject
             Console.WriteLine("Primera Linea!\n");
 
             //OAguirre - Escribir cualquier linea de texto
-
+            Console.WriteLine("Segunda Linea!\n");
 
         }
     }
